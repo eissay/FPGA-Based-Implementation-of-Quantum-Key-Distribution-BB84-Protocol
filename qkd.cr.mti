@@ -1,0 +1,64 @@
+D:/QKD/rtl/Bob.v {1 {vlog -work work -stats=none D:/QKD/rtl/Bob.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Bob
+
+Top level modules:
+	Bob
+
+} {} {}} D:/QKD/rtl/QBER_Analyzer.v {1 {vlog -work work -stats=none D:/QKD/rtl/QBER_Analyzer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module QBER_Analyzer
+
+Top level modules:
+	QBER_Analyzer
+
+} {} {}} D:/QKD/rtl/Quantum_Channel_Emulator.v {1 {vlog -work work -stats=none D:/QKD/rtl/Quantum_Channel_Emulator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Quantum_Channel_Emulator
+
+Top level modules:
+	Quantum_Channel_Emulator
+
+} {} {}} D:/QKD/rtl/Eve.v {1 {vlog -work work -stats=none D:/QKD/rtl/Eve.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Eve
+
+Top level modules:
+	Eve
+
+} {} {}} D:/QKD/rtl/Top_Module.v {1 {vlog -work work -stats=none D:/QKD/rtl/Top_Module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Top_Module
+
+Top level modules:
+	Top_Module
+
+} {} {}} D:/QKD/rtl/Controller_FSM.v {1 {vlog -work work -stats=none D:/QKD/rtl/Controller_FSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller_FSM
+
+Top level modules:
+	Controller_FSM
+
+} {} {}} D:/QKD/rtl/PRNG_LFSR.v {1 {vlog -work work -stats=none D:/QKD/rtl/PRNG_LFSR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PRNG_LFSR
+
+Top level modules:
+	PRNG_LFSR
+
+} {} {}} D:/QKD/rtl/Sifting_Logic.v {1 {vlog -work work -stats=none D:/QKD/rtl/Sifting_Logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sifting_Logic
+
+Top level modules:
+	Sifting_Logic
+
+} {} {}} D:/QKD/rtl/Alice.v {1 {vlog -work work -stats=none D:/QKD/rtl/Alice.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Alice
+
+Top level modules:
+	Alice
+
+} {} {}}

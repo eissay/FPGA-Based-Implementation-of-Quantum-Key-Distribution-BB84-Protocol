@@ -1,0 +1,251 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QKD
+vAlice
+Z1 !s110 1779049984
+!i10b 1
+!s100 Cn;ZHGL7K0Ua:[I[Y8Nh@0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL>K9_gM3hf6[@Jc>n?]6K3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1779049149
+8D:/QKD/rtl/Alice.v
+FD:/QKD/rtl/Alice.v
+!i122 0
+L0 1 55
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1779049983.000000
+!s107 D:/QKD/rtl/Alice.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Alice.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@alice
+vBob
+R1
+!i10b 1
+!s100 ]7K@;Cl:8fMHg^nAU_mdT0
+R2
+Ih_j@]obJ5WQeb8dM1[C`h3
+R3
+R0
+w1779049168
+8D:/QKD/rtl/Bob.v
+FD:/QKD/rtl/Bob.v
+!i122 1
+L0 1 58
+R4
+r1
+!s85 0
+31
+Z7 !s108 1779049984.000000
+!s107 D:/QKD/rtl/Bob.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Bob.v|
+!i113 1
+R5
+R6
+n@bob
+vController_FSM
+R1
+!i10b 1
+!s100 KG9:JZ]i?eZWTP`c9??XM3
+R2
+IVTE_^a=J<:08lhSN_OGX:3
+R3
+R0
+w1779049278
+8D:/QKD/rtl/Controller_FSM.v
+FD:/QKD/rtl/Controller_FSM.v
+!i122 2
+L0 1 63
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/QKD/rtl/Controller_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Controller_FSM.v|
+!i113 1
+R5
+R6
+n@controller_@f@s@m
+vEve
+Z8 !s110 1779049985
+!i10b 1
+!s100 F32i`JLa`1;5MRj9iUP892
+R2
+IAC5R?XgTFM0bEenVEX2n;1
+R3
+R0
+w1779049187
+8D:/QKD/rtl/Eve.v
+FD:/QKD/rtl/Eve.v
+!i122 3
+L0 1 60
+R4
+r1
+!s85 0
+31
+Z9 !s108 1779049985.000000
+!s107 D:/QKD/rtl/Eve.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Eve.v|
+!i113 1
+R5
+R6
+n@eve
+vPRNG_LFSR
+R8
+!i10b 1
+!s100 VDjcf99ZkAN1Cif1Y=zX^3
+R2
+Ib91e0RBZkMF6T`N<UnAk=3
+R3
+R0
+w1779049126
+8D:/QKD/rtl/PRNG_LFSR.v
+FD:/QKD/rtl/PRNG_LFSR.v
+!i122 4
+L0 1 25
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/QKD/rtl/PRNG_LFSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/PRNG_LFSR.v|
+!i113 1
+R5
+R6
+n@p@r@n@g_@l@f@s@r
+vQBER_Analyzer
+R8
+!i10b 1
+!s100 YZ25z;IP4e`YQbEgP_SW21
+R2
+Ig]0d5FK9a:<KNk7e_W_oH3
+R3
+R0
+w1779049250
+8D:/QKD/rtl/QBER_Analyzer.v
+FD:/QKD/rtl/QBER_Analyzer.v
+!i122 5
+L0 1 28
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/QKD/rtl/QBER_Analyzer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/QBER_Analyzer.v|
+!i113 1
+R5
+R6
+n@q@b@e@r_@analyzer
+vQuantum_Channel_Emulator
+R8
+!i10b 1
+!s100 _]U8HR[Om;VcIL1Tm7CK@3
+R2
+IR2BDi87ddWC5^FPfV_HUm0
+R3
+R0
+w1779049209
+8D:/QKD/rtl/Quantum_Channel_Emulator.v
+FD:/QKD/rtl/Quantum_Channel_Emulator.v
+!i122 6
+L0 1 21
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/QKD/rtl/Quantum_Channel_Emulator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Quantum_Channel_Emulator.v|
+!i113 1
+R5
+R6
+n@quantum_@channel_@emulator
+vSifting_Logic
+Z10 !s110 1779049986
+!i10b 1
+!s100 MIon__QMI8OC88MSKO>oL1
+R2
+I7AOG@i3Fh>0`]DG]gL=<T2
+R3
+R0
+w1779049230
+8D:/QKD/rtl/Sifting_Logic.v
+FD:/QKD/rtl/Sifting_Logic.v
+!i122 7
+L0 1 34
+R4
+r1
+!s85 0
+31
+Z11 !s108 1779049986.000000
+!s107 D:/QKD/rtl/Sifting_Logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Sifting_Logic.v|
+!i113 1
+R5
+R6
+n@sifting_@logic
+vTb_BB84_QKD
+!s110 1779050521
+!i10b 1
+!s100 zN29j<43l2bIh_MEig09H3
+R2
+IQPEWz^J1WQVN350mnDc=^1
+R3
+R0
+w1779050515
+8D:/QKD/tb/Tb_BB84_QKD.v
+FD:/QKD/tb/Tb_BB84_QKD.v
+!i122 10
+L0 3 92
+R4
+r1
+!s85 0
+31
+!s108 1779050521.000000
+!s107 D:/QKD/tb/Tb_BB84_QKD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/tb/Tb_BB84_QKD.v|
+!i113 1
+R5
+R6
+n@tb_@b@b84_@q@k@d
+vTop_Module
+R10
+!i10b 1
+!s100 1onNf5e]5cZzG1DYUOQ;K2
+R2
+IzOdHa_AOn4jH02=T<TRh<1
+R3
+R0
+w1779049311
+8D:/QKD/rtl/Top_Module.v
+FD:/QKD/rtl/Top_Module.v
+!i122 8
+L0 1 138
+R4
+r1
+!s85 0
+31
+R11
+!s107 D:/QKD/rtl/Top_Module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QKD/rtl/Top_Module.v|
+!i113 1
+R5
+R6
+n@top_@module
